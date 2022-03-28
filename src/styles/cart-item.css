@@ -1,0 +1,20 @@
+.cart-item-container {
+  margin-top: 100px;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.cart-item-img {
+  width: 200px;
+}
+
+.cart-item-qty, .cart-item-name {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.cart-item-container .price {
+    margin-top: auto;
+    margin-bottom: auto;
+}
